@@ -1,5 +1,8 @@
 # adjListDFS
 인접 리스트로 구현한 DFS 탐색
+
+![image](https://user-images.githubusercontent.com/35417717/160735572-35d07bbe-bfe6-4980-a478-41fc60a78f77.png)
+
 ```
 4
 0 12 1
